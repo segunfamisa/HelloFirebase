@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
 
         setSupportActionBar(toolbar);
 
+        // send custom log
+        FirebaseCrash.log("MainActivity started");
 
         // Send Firebase Crash Report
         crashButton.setOnClickListener(new View.OnClickListener() {
