@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- default config values -->
+    <string name="config_signup_prompt">You idiot. Don't be stupid. Sign up!</string>
+    <integer name="config_min_password_len">5</integer>
+    <bool name="config_promo_on">false</bool>
+    <string name="config_color_pry">#3F51B5</string>
+    <string name="config_color_pry_dark">#303F9F</string>
+</resources>
